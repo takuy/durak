@@ -1,0 +1,33 @@
+"a" = (/turf,/area)
+"b" = (/borders{tag = "icon-default (NORTHWEST)"; icon_state = ""; dir = 9},/spawns/player_8,/area)
+"c" = (/borders{tag = "icon-default (NORTH)"; icon_state = ""; dir = 1},/table,/area)
+"d" = (/borders{tag = "icon-default (NORTH)"; icon_state = ""; dir = 1},/spawns/player_1,/area)
+"e" = (/borders{tag = "icon-default (NORTHEAST)"; icon_state = ""; dir = 5},/spawns/player_2,/area)
+"f" = (/borders{tag = "icon-default (WEST)"; icon_state = ""; dir = 8},/table,/area)
+"g" = (/table,/area)
+"h" = (/borders{tag = "icon-default (EAST)"; icon_state = ""; dir = 4},/table,/area)
+"i" = (/borders{tag = "icon-default (WEST)"; icon_state = ""; dir = 8},/spawns/player_7,/area)
+"j" = (/borders{tag = "icon-default (EAST)"; icon_state = ""; dir = 4},/spawns/player_3,/area)
+"k" = (/borders{tag = "icon-default (SOUTHWEST)"; icon_state = ""; dir = 10},/spawns/player_6,/area)
+"l" = (/borders,/table,/area)
+"m" = (/borders,/spawns/player_5,/area)
+"n" = (/borders{tag = "icon-default (SOUTHEAST)"; icon_state = ""; dir = 6},/spawns/player_4,/area)
+
+(1,1,1) = {"
+aaaaaaaaaaaaaaa
+aabccccdcccceaa
+aafggggggggghaa
+aafggggggggghaa
+aafggggggggghaa
+aafggggggggghaa
+aaigggggggggjaa
+aafggggggggghaa
+aafggggggggghaa
+aafggggggggghaa
+aafggggggggghaa
+aakllllmllllnaa
+aaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaa
+"}

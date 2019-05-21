@@ -1,0 +1,27 @@
+// DM Environment file for Durak.dme.
+// All manual changes should be made outside the BEGIN_ and END_ blocks.
+// New source code should be placed in .dm files: choose File/New --> Code File.
+
+// BEGIN_INTERNALS
+// END_INTERNALS
+
+// BEGIN_FILE_DIR
+#define FILE_DIR .
+// END_FILE_DIR
+
+// BEGIN_PREFERENCES
+#define DEBUG
+// END_PREFERENCES
+
+// BEGIN_INCLUDE
+#include <keeth\ktext\kText.dme>
+#include "_a.dm"
+#include "buttons.dm"
+#include "Cards.dm"
+#include "deck.dm"
+#include "Durak.dm"
+#include "help.dm"
+#include "skin.dmf"
+#include "screen.dmm"
+// END_INCLUDE
+
