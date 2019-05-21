@@ -1,1 +1,1 @@
-a russian card game (durak), that I wrote in DM (byond.com) in 2012
+a russian card game (durak), that I wrote in DM (byond.com) in 2012. shrug
